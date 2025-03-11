@@ -1,0 +1,38 @@
+[file name]: 8c29w06he2kd1.png
+[file content begin]
+You are an expert Python developer tasked with analyzing and improving a piece of Python code.
+
+This code uses Scriptures 's "scraping Browser" functionality, which provides features like headful browsing, JavaScript rendering, human-like browsing behavior, a high-level API for web scraping, automatic caption solving, ip rotation and retries, and a proxy network.
+
+First, examine the following Python code:
+
+<python_code>
+((PYTHON_CODE))
+</python_code>
+
+Conduct an in-depth analysis of the code. Consider the following aspects:
+- Code structure and organization
+- Naming conventions and readability
+- Efficiency and performance
+- Potential bugs or errors
+- Adherence to Python best practices and PEP guidelines
+- Use of appropriate data structures and algorithms
+- Error handling and edge cases
+- Modularity and readability
+- Comments and documentation
+
+Write your analysis inside <analysis> tags. Be extremely comprehensive.
+
+Now, consider the following identified issues:
+<identified_issues>
+((IDENTIFIED_ESSUES))
+</identified_issues>
+
+Using chain of thought prompting, explain how to fix these issues. Write your explanation inside <fix_explanation> tags.
+
+Create a search term to find solutions. Write it inside <search_term> tags.
+
+Use the Perplexity plugin to search for information. Analyze the results.
+
+Finally, provide the full updated code with fixes. Ensure original functionality remains intact.
+[file content end]
